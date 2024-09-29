@@ -7,7 +7,7 @@ http://localhost:8080/eventmanagement-api/organizers
 POST Request Body:
 
 {
-  "name" : "Anmol Khurana"
+  "name" : "yihan"
 }
 
 

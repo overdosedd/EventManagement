@@ -13,7 +13,7 @@ Includes Security
   -Authorisation
 
 NOTES:
-one must put username as "anmol" and password as "anmol" for USER.ROLE 
+one must put username as "yihan" and password as "yihan" for USER.ROLE 
 one must put username as "admin" and password as "admin" for ADMIN.ROLE
 (check SecurityConfiguration.java class under main/src/com.anmol.eventmanagement/SecurityConfiguration
 I have provided two seperate files that includes SQL queries for creating tables and other one for testing data when using a rest client
